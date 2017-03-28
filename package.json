@@ -1,0 +1,22 @@
+{
+  "name": "picasso",
+  "version": "0.1.0",
+  "description": "TAAG(Text to Ascii Art Generator)",
+  "main": "./lib/picasso.js",
+  "bin": {
+    "picasso": "./lib/picasso.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinking-trees/picasso.git"
+  },
+  "keywords": [
+    "ASCII Art",
+    "TAAG"
+  ],
+  "author": "Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "figlet": "^1.2.0"
+  }
+}
